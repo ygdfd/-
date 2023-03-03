@@ -1,0 +1,84 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.spisok{
+    display: flex;
+    list-style: none;
+    font-weight: 700;
+    color: #697CA6;
+    justify-content: space-between;
+
+}
+.nav1 {
+    display: flex;
+    justify-content: start;
+    align-items: center;   
+    
+}
+.Home{
+    font-weight: 700;
+    color: #5E81FE;
+}
+.logo{   
+  background: #5E81FE;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  margin-left: 50px;
+}    
+
+.li {
+    padding-left: 50px;
+}
+a {
+    color: #697CA6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5E81FE;
+}
+.logos{
+    padding-right: 30px;
+}
+.button{
+    height: 40px;
+    width: 115px;
+    border-color:#D2E1FF;
+    border-style: solid;
+    background-color:#D2E1FF ;
+    cursor: pointer;
+    color: #5E81FE;
+    margin-right: 80px;
+}
+.prewiew_text{
+    background-image: url(img/background.png);
+    height: 760px;
+    width: 1905px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.text{
+    padding-top: 150px;
+}
+.zaga1{
+    font-weight: 500;
+    color: #3D4F9F;
+    font-size: 15px;
+}
+.zaga{
+    font-weight: 700;
+    color: #3D4F9F;
+    font-size: 40px;
+}
+.tekst{
+    color: #8D96BD;
+    font-size: 20px;
+}
+    
